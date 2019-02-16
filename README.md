@@ -24,7 +24,7 @@ This project display a list of important Reinforcement Learning resources focuse
 
 * #### Books
   * [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
-  * [reinforcement learning: State-of-the-Art, Marco Wiering](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+  * [reinforcement learning: State-of-the-Art, Marco Wiering](/ReinforcementLearningState-of-the-Art.pdf)
 * #### Lectures
   * koaksda  
 * #### Papers
