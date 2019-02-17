@@ -15,8 +15,8 @@ This project display a list of important Reinforcement Learning and Porfolio Man
 * [Stanford University CS229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 * [MIT 18.02 Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
 * [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+* [Technical talks](https://www.youtube.com/playlist?list=PLqYmG7hTraZCuaG0h0DDn_YPleGLLAEkK)
 
-* []()
 * []()
 * []()
 
