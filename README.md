@@ -3,7 +3,8 @@
 This project display a list of important Reinforcement Learning resources, like papers, books, lectures and so. Some matematical backgorund is also listed here.
   
 ## Books
-* [I'm a relative reference to a repository file](../blob/master/LICENSE)
+* [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+* [reinforcement learning: State-of-the-Art, Marco Wiering](/ReinforcementLearningState-of-the-Art.pdf)
 
 ## Lectures
 * [MIT Deep Learning](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
@@ -21,37 +22,29 @@ This project display a list of important Reinforcement Learning resources, like 
 
 
 ## Papers
-* koaksda    
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ## Projects
-* dfsdfs
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ## Discord Groups
-  
-## Deep Learning
 
-* #### Books
-  * koaksda
-* #### Lectures
-  * koaksda  
-* #### Papers
-  * koaksda    
-  
-## Reinforcement Learning
-
-* #### Books
-  * [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
-  * [reinforcement learning: State-of-the-Art, Marco Wiering](/ReinforcementLearningState-of-the-Art.pdf)
-* #### Lectures
-  * koaksda  
-* #### Papers
-  * koaksda    
-  
-## Portfolio Management
-
-* #### Books
-  * koaksda
-* #### Projects
-  * koaksda  
-* #### Papers
-  * koaksda    
+* []()
+* []()
+* []()
