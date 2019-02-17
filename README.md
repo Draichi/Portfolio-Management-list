@@ -1,6 +1,6 @@
-# Portfolio Management Laboratory
+# Reinforcement Learning Laboratory
 
-This project display a list of important Reinforcement Learning resources, like papers, books, lectures and so. Some matematical backgorund is also listed here.
+This project display a list of important Reinforcement Learning and Porfolio Management resources, like papers, books, lectures and so. Some matematical and financial background is also listed here.
   
 ## Books
 * [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
