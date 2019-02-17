@@ -1,15 +1,32 @@
 # Portfolio Management Laboratory
 
-This project display a list of important Reinforcement Learning resources focused in Portfolio Management.  
+This project display a list of important Reinforcement Learning resources, like papers, books, lectures and so. Some matematical backgorund is also listed here.
   
-## Matematical Background
+## Books
+* [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-* #### Books
-  * [I'm a relative reference to a repository file](../blob/master/LICENSE)
-* #### Lectures
-  * koaksda  
-* #### Papers
-  * koaksda    
+## Lectures
+* [MIT Deep Learning](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+* [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+* [CS 294-112 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
+* [Deep RL Bootcamp 2017](https://www.youtube.com/playlist?list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U)
+* [Stanford University CS231n](http://cs231n.github.io/) / [and playlist](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+* [Stanford University CS229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+* [MIT 18.02 Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
+* [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+
+* []()
+* []()
+* []()
+
+
+## Papers
+* koaksda    
+
+## Projects
+* dfsdfs
+
+## Discord Groups
   
 ## Deep Learning
 
