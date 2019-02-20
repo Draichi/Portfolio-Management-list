@@ -8,6 +8,8 @@ This project display a list of important Reinforcement Learning and Porfolio Man
 * [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 * [Reinforcement Learning: State-of-the-Art, Marco Wiering](/books/ReinforcementLearningState-of-the-Art.pdf)
 * [Introduction to Probability, Bertsekas & Tsitsiklis](/books/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf)
+* [Hands on Machine Learning with Scikit Learn and Tensorflow, Aurelien Geron](/books/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)
+* [Vector Calculus, Susan Jane Colley](/books/Vector%20Calculus.pdf)
 
 ## Lectures
 * [MIT Deep Learning](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
