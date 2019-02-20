@@ -4,7 +4,8 @@ This project display a list of important Reinforcement Learning and Porfolio Man
   
 ## Books
 * [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
-* [reinforcement learning: State-of-the-Art, Marco Wiering](/ReinforcementLearningState-of-the-Art.pdf)
+* [Reinforcement Learning: State-of-the-Art, Marco Wiering](/books/ReinforcementLearningState-of-the-Art.pdf)
+* [Introduction to Probability, Bertsekas & Tsitsiklis](/books/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf)
 
 ## Lectures
 * [MIT Deep Learning](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
