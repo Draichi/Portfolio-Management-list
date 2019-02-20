@@ -1,3 +1,8 @@
+<div align="center">
+	<img width="500" height="350" src="https://raw.githubusercontent.com/github/explore/c304601f028774885ef27f72e6fe2d331729d8bc/topics/awesome/awesome.png" alt="Awesome">
+</div>
+
+
 ![Reinforcement_Learning-and_Portfolio_Management](https://img.shields.io/badge/Reinforcement_Learning-and_Portfolio_Management-c2c505.svg?colorA=ca20c0&longCache=true&style=for-the-badge "Reinforcement_Learning-and_Portfolio_Management")
 
 # Reinforcement Learning Laboratory
