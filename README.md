@@ -12,6 +12,7 @@ This project display a list of important Reinforcement Learning and Porfolio Man
 * [Vector Calculus, Susan Jane Colley](/books/Vector%20Calculus.pdf)
 * [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville](/books/deeplearningbook.pdf)
 * [Algorithms for Reinforcement Learning, Csaba Szepesvari](/books/RLAlgsInMDPs.pdf)
+* [Markov Decision Processes in Artificial Intelligence, Olivier Sigaud & Olivier Buffet](/books/Markov_Decision_Processes_and_Artificial_Intelligence.pdf)
 
 ## Lectures
 * [MIT Deep Learning](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
