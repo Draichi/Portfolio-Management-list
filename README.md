@@ -1,4 +1,4 @@
-![Portfolio_Management-Laboratory](https://img.shields.io/badge/Reinforcement_Learning-and_Portfolio_Management-c2c505.svg?colorA=ca20c0&longCache=true&style=for-the-badge "Reinforcement_Learning-and_Portfolio_Management")
+![Portfolio_Management-Laboratory](https://img.shields.io/badge/Portfolio_Management-Laboratory-c2c505.svg?colorA=ca20c0&longCache=true&style=for-the-badge "Reinforcement_Learning-and_Portfolio_Management")
 
 # Portfolio Management using Reinforcement Learning
 
