@@ -30,13 +30,13 @@ This project display a list of important Reinforcement Learning and Porfolio Man
 
 
 ## Papers
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059)
+* [Adversarial Deep Reinforcement Learning in Portfolio Management](https://arxiv.org/abs/1808.09940)
+* [An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560)
+* [Cryptocurrency Portfolio Management with Deep Reinforcement Learning](https://arxiv.org/abs/1612.01277)
+* [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
+* [Financial Trading as a Game A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1807.02787)
+* [PAMR: Passive aggressive mean reversion strategy for portfolio selection](https://link.springer.com/article/10.1007/s10994-012-5281-z)
 * []()
 * []()
 
