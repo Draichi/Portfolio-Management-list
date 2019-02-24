@@ -25,10 +25,6 @@ This project display a list of important Reinforcement Learning and Porfolio Man
 * [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
 * [Technical talks](https://www.youtube.com/playlist?list=PLqYmG7hTraZCuaG0h0DDn_YPleGLLAEkK)
 
-* []()
-* []()
-
-
 ## Papers
 * [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059)
 * [Adversarial Deep Reinforcement Learning in Portfolio Management](https://arxiv.org/abs/1808.09940)
@@ -37,8 +33,6 @@ This project display a list of important Reinforcement Learning and Porfolio Man
 * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 * [Financial Trading as a Game A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1807.02787)
 * [PAMR: Passive aggressive mean reversion strategy for portfolio selection](https://link.springer.com/article/10.1007/s10994-012-5281-z)
-* []()
-* []()
 
 ## Projects
 * []()
