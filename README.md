@@ -23,6 +23,7 @@ This project display a list of important Reinforcement Learning and Porfolio Man
 * [MIT 18.02 Multivariable Calculus](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
 * [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
 * [Technical talks](https://www.youtube.com/playlist?list=PLqYmG7hTraZCuaG0h0DDn_YPleGLLAEkK)
+* [Machine-Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 ## Papers
 * [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059)
