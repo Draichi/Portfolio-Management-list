@@ -35,15 +35,13 @@ This project display a list of important Reinforcement Learning and Porfolio Man
 * [PAMR: Passive aggressive mean reversion strategy for portfolio selection](https://link.springer.com/article/10.1007/s10994-012-5281-z)
 
 ## Projects
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [PGPortfolio: Policy Gradient Portfolio](https://github.com/ZhengyaoJiang/PGPortfolio)
+* [TradingGym](https://github.com/Yvictor/TradingGym)
+* [BTGym](https://github.com/Kismuz/btgym)
+* [A3C-Crypto-Trader](https://github.com/yazzaoui/A3C-Crypto-Trader)
+* [backtrader](https://github.com/backtrader/backtrader)
+* [Reinforcement-trading
+](https://github.com/deependersingla/deep_trader)
 
 ## Discord Servers
 
