@@ -51,10 +51,7 @@ This project display a list of important Reinforcement Learning and Porfolio Man
 * []()
 * []()
 
-## Discord Groups
+## Discord Servers
 
 * https://discord.gg/uVUSPfc
 * https://discord.gg/hcnRRzm
-* []()
-* []()
-* []()
