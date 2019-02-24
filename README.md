@@ -45,5 +45,5 @@ This project display a list of important Reinforcement Learning and Porfolio Man
 
 ## Discord Servers
 
-* https://discord.gg/uVUSPfc
-* https://discord.gg/hcnRRzm
+* [Spacestation](https://discord.gg/uVUSPfc)
+* [Artificial Intelligence](https://discord.gg/hcnRRzm)
