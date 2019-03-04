@@ -49,6 +49,7 @@ A list of important resources in my research on the portfolio management problem
 * [A3C-Crypto-Trader](https://github.com/yazzaoui/A3C-Crypto-Trader)
 * [backtrader](https://github.com/backtrader/backtrader)
 * [Reinforcement-trading](https://github.com/deependersingla/deep_trader)
+* [Spinningup Openai](https://spinningup.openai.com/en/latest/index.html)
 
 ## Discord Servers
 * [Spacestation](https://discord.gg/uVUSPfc)
