@@ -26,6 +26,7 @@ A list of important resources in my research on the portfolio management problem
 - [x] [Stanford University CS231n](http://cs231n.github.io/) / [youtube](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - [x] [Stanford University CS229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 - [ ] [Technical talks](https://www.youtube.com/playlist?list=PLqYmG7hTraZCuaG0h0DDn_YPleGLLAEkK)
+- [ ] [OpenAI - Spinning Up in Deep RL Workshop](https://www.youtube.com/watch?v=fdY7dt3ijgY&list=WL&index=23&t=2287s)
 - [ ] [Machine-Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 ## Papers
