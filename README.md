@@ -37,6 +37,8 @@ A list of important resources in my research on the portfolio management problem
 - [ ] [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)
 - [ ] [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
 - [ ] [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
+- [ ] [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440)
+- [ ] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 - [ ] [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)
 - [ ] [Reinforcement Learning Algorithm for Partially Observable MDP](https://papers.nips.cc/paper/951-reinforcement-learning-algorithm-for-partially-observable-markov-decision-problems.pdf)
 #### Portfolio Management
