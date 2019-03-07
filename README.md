@@ -16,7 +16,7 @@ A list of important resources in my research on the portfolio management problem
 
 ## Papers
 #### Background
-- [ ] [An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560)
+- [x] [An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560)
 - [ ] [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 #### Algorithms
 - [ ] [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)
