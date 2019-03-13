@@ -17,7 +17,6 @@ A list of important resources in my research on the portfolio management problem
 ## Papers
 #### Background
 - [x] [An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560)
-- [ ] [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 #### Algorithms
 - [ ] [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)
 - [ ] [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
@@ -26,6 +25,7 @@ A list of important resources in my research on the portfolio management problem
 - [x] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 - [ ] [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778)
 - [x] [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)
+- [x] [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
 - [ ] [Reinforcement Learning Algorithm for Partially Observable MDP](https://papers.nips.cc/paper/951-reinforcement-learning-algorithm-for-partially-observable-markov-decision-problems.pdf)
 #### Portfolio Management
 - [ ] [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059)
