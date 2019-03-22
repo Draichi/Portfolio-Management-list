@@ -56,7 +56,7 @@ A list of important resources in my research on the portfolio management problem
 
 ## Projects
 * [PGPortfolio: Policy Gradient Portfolio](https://github.com/ZhengyaoJiang/PGPortfolio)
-* [TradingGym](https://github.com/Yvictor/TradingGym)
+* [Cryptocurrency Prediction](https://github.com/Draichi/cryptocurrency_prediction)
 * [BTGym](https://github.com/Kismuz/btgym)
 * [A3C-Crypto-Trader](https://github.com/yazzaoui/A3C-Crypto-Trader)
 * [backtrader](https://github.com/backtrader/backtrader)
