@@ -11,8 +11,6 @@ A list of important resources in my research on the portfolio management problem
 #### Reinforcement Learning
 - [x] [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - [ ] [Reinforcement Learning: State-of-the-Art, Marco Wiering](/books/ReinforcementLearningState-of-the-Art.pdf)
-- [ ] [Algorithms for Reinforcement Learning, Csaba Szepesvari](/books/RLAlgsInMDPs.pdf)
-- [ ] [Markov Decision Processes in Artificial Intelligence, Olivier Sigaud & Olivier Buffet](/books/Markov_Decision_Processes_and_Artificial_Intelligence.pdf)
 
 ## Papers
 #### Background
@@ -52,7 +50,6 @@ A list of important resources in my research on the portfolio management problem
 - [x] [Stanford University CS229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 - [ ] [Technical talks](https://www.youtube.com/playlist?list=PLqYmG7hTraZCuaG0h0DDn_YPleGLLAEkK)
 - [ ] [OpenAI - Spinning Up in Deep RL Workshop](https://www.youtube.com/watch?v=fdY7dt3ijgY&list=WL&index=23&t=2287s)
-- [ ] [Machine-Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 ## Projects
 * [PGPortfolio: Policy Gradient Portfolio](https://github.com/ZhengyaoJiang/PGPortfolio)
