@@ -24,7 +24,7 @@ A list of important resources in my research on the portfolio management problem
 - [x] [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)
 - [x] [Approximately Optimal Approximate Reinforcement Learning](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 - [ ] [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778)
-- [ ] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
+- [x] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 - [ ] [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286)
 - [x] [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)
 - [x] [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
