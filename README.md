@@ -28,9 +28,11 @@ A list of important resources in my research on the portfolio management problem
 - [x] [Approximately Optimal Approximate Reinforcement Learning](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/KakadeLangford-icml2002.pdf)
 - [ ] [Benchmarking Deep Reinforcement Learning for Continuous Control](https://arxiv.org/abs/1604.06778)
 - [x] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
-- [ ] [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286)
+- [x] [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286)
 - [x] [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)
 - [x] [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
+- [ ] [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
+- [ ] [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
 - [ ] [Reinforcement Learning Algorithm for Partially Observable MDP](https://papers.nips.cc/paper/951-reinforcement-learning-algorithm-for-partially-observable-markov-decision-problems.pdf)
 #### Portfolio Management
 - [x] [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059)
