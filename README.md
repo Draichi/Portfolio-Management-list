@@ -59,7 +59,7 @@ A list of important resources in my research on the portfolio management problem
 - [ ] [ANTS #2)](https://www.youtube.com/playlist?list=PLn0OLiymPak3lrIErlYVnIc3pGTwgt_ml)
 - [ ] [ANTS #3)](https://www.youtube.com/playlist?list=PLn0OLiymPak2G__qvavn3T8k7R8ssKxVr)
 - [ ] [ANTS #2)](https://www.youtube.com/playlist?list=PLn0OLiymPak3jjr0hHI9OFXuQyPBQlFdk)
-- [ ] [Quantopian](https://www.youtube.com/playlist?list=PLRFLF1OxMm_UL7WUWM31iynp0jMVf_vLW)
+- [ ] [Quantopian](https://www.quantopian.com/lectures) / [youtube](https://www.youtube.com/playlist?list=PLRFLF1OxMm_UL7WUWM31iynp0jMVf_vLW)
 - [ ] [OpenAI - Spinning Up in Deep RL Workshop](https://www.youtube.com/watch?v=fdY7dt3ijgY&list=WL&index=23&t=2287s)
 
 ## Projects
