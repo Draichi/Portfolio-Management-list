@@ -56,6 +56,10 @@ A list of important resources in my research on the portfolio management problem
 - [x] [Stanford University CS229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 - [ ] [Technical talks](https://www.youtube.com/playlist?list=PLqYmG7hTraZCuaG0h0DDn_YPleGLLAEkK)
 - [ ] [Foreign exchange and trade](https://www.youtube.com/playlist?list=PLSQl0a2vh4HBtIbLlQQw2lmjOUFN8yH9-)
+- [ ] [ANTS #2)](https://www.youtube.com/playlist?list=PLn0OLiymPak3lrIErlYVnIc3pGTwgt_ml)
+- [ ] [ANTS #3)](https://www.youtube.com/playlist?list=PLn0OLiymPak2G__qvavn3T8k7R8ssKxVr)
+- [ ] [ANTS #2)](https://www.youtube.com/playlist?list=PLn0OLiymPak3jjr0hHI9OFXuQyPBQlFdk)
+- [ ] [Quantopian](https://www.youtube.com/playlist?list=PLRFLF1OxMm_UL7WUWM31iynp0jMVf_vLW)
 - [ ] [OpenAI - Spinning Up in Deep RL Workshop](https://www.youtube.com/watch?v=fdY7dt3ijgY&list=WL&index=23&t=2287s)
 
 ## Projects
