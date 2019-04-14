@@ -48,13 +48,14 @@ A list of important resources in my research on the portfolio management problem
 - [x] [6.041 Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
 #### Reinforcement Learning
 - [ ] [MIT Deep Learning](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
-- [ ] Reinforcement Learning](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
+- [ ] [Reinforcement Learning](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 - [ ] [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 - [ ] [CS 294-112 at UC Berkeley](http://rail.eecs.berkeley.edu/deeprlcourse/)
 - [ ] [Deep RL Bootcamp 2017](https://www.youtube.com/playlist?list=PLAdk-EyP1ND8MqJEJnSvaoUShrAWYe51U)
 - [x] [Stanford University CS231n](http://cs231n.github.io/) / [youtube](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - [x] [Stanford University CS229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 - [ ] [Technical talks](https://www.youtube.com/playlist?list=PLqYmG7hTraZCuaG0h0DDn_YPleGLLAEkK)
+- [ ] [Foreign exchange and trade](https://www.youtube.com/playlist?list=PLSQl0a2vh4HBtIbLlQQw2lmjOUFN8yH9-)
 - [ ] [OpenAI - Spinning Up in Deep RL Workshop](https://www.youtube.com/watch?v=fdY7dt3ijgY&list=WL&index=23&t=2287s)
 
 ## Projects
