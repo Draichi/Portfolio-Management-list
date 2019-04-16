@@ -17,6 +17,7 @@ A list of important resources in my research on the portfolio management problem
 - [ ] [Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging, Yves Hilpisch](https://www.amazon.com.br/Derivatives-Analytics-Python-Simulation-Calibration-ebook/dp/B0104CGB1A)
 - [ ] [The Black Swan, Nassim Nicholas Taleb](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X)
 - [ ] [Antifragile, Nassim Nicholas Taleb](https://www.amazon.com/gp/product/0812979680/ref=dbs_a_def_rwt_bibl_vppi_i0)
+- [ ] [Denationalisation of Money, Friedrich A. Hayek](https://mises.org/library/denationalisation-money-argument-refined)
 
 ## Papers
 #### Background
