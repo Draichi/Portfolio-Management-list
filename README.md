@@ -40,10 +40,10 @@ A list of important resources in my research on the portfolio management problem
 #### Portfolio Management
 - [x] [Portfolio Selection, Harry Markowitz](https://www.math.ust.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf)
 - [x] [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059)
-- [ ] [Adversarial Deep Reinforcement Learning in Portfolio Management](https://arxiv.org/abs/1808.09940)
+<!-- - [ ] [Adversarial Deep Reinforcement Learning in Portfolio Management](https://arxiv.org/abs/1808.09940)
 - [ ] [Cryptocurrency Portfolio Management with Deep Reinforcement Learning](https://arxiv.org/abs/1612.01277)
 - [ ] [Financial Trading as a Game: A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1807.02787)
-- [ ] [PAMR: Passive aggressive mean reversion strategy for portfolio selection](https://link.springer.com/article/10.1007/s10994-012-5281-z)
+- [ ] [PAMR: Passive aggressive mean reversion strategy for portfolio selection](https://link.springer.com/article/10.1007/s10994-012-5281-z) -->
 
 ## Lectures
 #### Background
