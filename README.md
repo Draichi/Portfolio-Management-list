@@ -12,16 +12,16 @@ A list of important resources in my research on the portfolio management problem
 #### Reinforcement Learning
 - [x] [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 - [ ] [Reinforcement Learning: State-of-the-Art, Marco Wiering](/books/ReinforcementLearningState-of-the-Art.pdf)
-#### Portfolio Management
-- [ ] [Quantitative Investment Analysis, Richard A. DeFusco, Dennis W. McLeavey, David E. Runkle, Jerald E. Pinto](https://www.amazon.com/Quantitative-Investment-Analysis-Richard-DeFusco/dp/0470052201)
+#### Finance
+- [ ] [Python for Finance: Analyze Big Financial Data, Yves Hilpisch](https://www.oreilly.com/library/view/python-for-finance/9781492024323/)
+- [ ] [Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging, Yves Hilpisch](https://www.amazon.com.br/Derivatives-Analytics-Python-Simulation-Calibration-ebook/dp/B0104CGB1A)
+- [ ] [The Black Swan, Nassim Nicholas Taleb](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X)
+- [ ] [Antifragile, Nassim Nicholas Taleb](https://www.amazon.com/gp/product/0812979680/ref=dbs_a_def_rwt_bibl_vppi_i0)
 
 ## Papers
 #### Background
 - [x] [An Introduction to Deep Reinforcement Learning](https://arxiv.org/abs/1811.12560)
 #### Algorithms
-- [ ] [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
-- [ ] [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
-- [ ] [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440)
 - [x] [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 - [x] [IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures](https://arxiv.org/abs/1802.01561)
 - [x] [Trust Region Policy Optimization](https://arxiv.org/abs/1502.05477)
@@ -31,15 +31,17 @@ A list of important resources in my research on the portfolio management problem
 - [x] [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/abs/1707.02286)
 - [x] [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)
 - [x] [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
+- [ ] [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
+- [ ] [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440)
 - [ ] [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
 - [ ] [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
 - [ ] [Reinforcement Learning Algorithm for Partially Observable MDP](https://papers.nips.cc/paper/951-reinforcement-learning-algorithm-for-partially-observable-markov-decision-problems.pdf)
 #### Portfolio Management
+- [x] [Portfolio Selection, Harry Markowitz](https://www.math.ust.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf)
 - [x] [A Deep Reinforcement Learning Framework for the Financial Portfolio Management Problem](https://arxiv.org/abs/1706.10059)
 - [ ] [Adversarial Deep Reinforcement Learning in Portfolio Management](https://arxiv.org/abs/1808.09940)
 - [ ] [Cryptocurrency Portfolio Management with Deep Reinforcement Learning](https://arxiv.org/abs/1612.01277)
 - [ ] [Financial Trading as a Game: A Deep Reinforcement Learning Approach](https://arxiv.org/abs/1807.02787)
-- [x] [Portfolio Selection, Harry Markowitz](https://www.math.ust.hk/~maykwok/courses/ma362/07F/markowitz_JF.pdf)
 - [ ] [PAMR: Passive aggressive mean reversion strategy for portfolio selection](https://link.springer.com/article/10.1007/s10994-012-5281-z)
 
 ## Lectures
