@@ -14,7 +14,6 @@ A list of important resources in my research on the portfolio management problem
 - [ ] [Reinforcement Learning: State-of-the-Art, Marco Wiering](/books/ReinforcementLearningState-of-the-Art.pdf)
 #### Finance
 - [ ] [Python for Finance: Analyze Big Financial Data, Yves Hilpisch](https://www.oreilly.com/library/view/python-for-finance/9781492024323/)
-- [ ] [Derivatives Analytics with Python: Data Analysis, Models, Simulation, Calibration and Hedging, Yves Hilpisch](https://www.amazon.com.br/Derivatives-Analytics-Python-Simulation-Calibration-ebook/dp/B0104CGB1A)
 - [ ] [The Black Swan, Nassim Nicholas Taleb](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X)
 - [ ] [Antifragile, Nassim Nicholas Taleb](https://www.amazon.com/gp/product/0812979680/ref=dbs_a_def_rwt_bibl_vppi_i0)
 - [x] [Denationalisation of Money, Friedrich A. Hayek](https://mises.org/library/denationalisation-money-argument-refined)
