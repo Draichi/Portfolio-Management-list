@@ -32,8 +32,9 @@ A list of important resources in my research on the portfolio management problem
 - [x] [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/abs/1506.02438)
 - [x] [Policy Gradient Methods for Reinforcement Learning with Function Approximation](https://papers.nips.cc/paper/1713-policy-gradient-methods-for-reinforcement-learning-with-function-approximation.pdf)
 - [ ] [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
+- [ ] [Addressing Function Approximation Error in Actor-Critic Methods](https://arxiv.org/abs/1802.09477)
 - [ ] [Equivalence Between Policy Gradients and Soft Q-Learning](https://arxiv.org/abs/1704.06440)
-- [ ] [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
+- [x] [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
 - [x] [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf)
 - [ ] [Reinforcement Learning Algorithm for Partially Observable MDP](https://papers.nips.cc/paper/951-reinforcement-learning-algorithm-for-partially-observable-markov-decision-problems.pdf)
 #### Portfolio Management
