@@ -9,7 +9,7 @@ A list of important resources in my research on the portfolio management problem
 - [x] [Hands on Machine Learning with Scikit Learn and Tensorflow, Aurelien Geron](/books/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf)
 - [ ] [Fluent Python, Luciano Ramalho](http://1.droppdf.com/files/X06AR/fluent-python-2015-.pdf)
 - [ ] [Refactoring, Martin Fowler](https://martinfowler.com/books/refactoring.html)
-- [ ] [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- [ ] [Clean Code: A Handbook of Agile Software Craftsmanship, Robert C. Martin](https://www.amazon.com.br/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - [x] [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville](/books/deeplearningbook.pdf)
 #### Reinforcement Learning
 - [x] [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
