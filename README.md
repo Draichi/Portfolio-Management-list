@@ -13,6 +13,7 @@ A list of important resources in my research on the portfolio management problem
 
 ## Books
 - [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+- [Deep Learning for Coders with fastai and PyTorch](https://github.com/fastai/fastbook)
 - [Vector Calculus, Susan Jane Colley](/books/Vector%20Calculus.pdf) (optional)
 - [Introduction to Probability, Bertsekas & Tsitsiklis](/books/Math--Bertsekas_Tsitsiklis_Introduction_to_probability.pdf) (optional)
 - [Hands on Machine Learning with Scikit Learn and Tensorflow, Aurelien Geron](/books/Hands%20on%20Machine%20Learning%20with%20Scikit%20Learn%20and%20Tensorflow.pdf) (optional)
