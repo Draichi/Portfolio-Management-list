@@ -7,9 +7,9 @@ A list of important resources in my research on the portfolio management problem
  - [DeepMind x UCL | Deep Learning Lecture Series 2021](https://youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm&si=3k6CH5E2wS7OD1Ut)
  - [FastAI | Practical Deep Learning for Coders](https://course.fast.ai/#why-deep-learning)
  - [Hugging Face | Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/en/unit0/introduction)
- - [MIT | Deep Learning](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
- - [Stanford | CS231n](http://cs231n.github.io/) | [lecture](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
- - [Stanford | CS229](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+ - [MIT | 6.S191](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=jEOFnqwd2mmJnOwv)
+ - [Stanford | CS229](https://youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)
+ - [Coursera | Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
 
 ## Books
 - [Reinforcement Learning: An Introduction, Richard S. Sutton and Andrew G. Barto](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
